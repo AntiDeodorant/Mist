@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="mist-logo" src="https://github.com/user-attachments/assets/8511cb61-2306-4c74-b868-c2f68f5963e1" />
+<img width="128" height="128" alt="mist-logo" src="https://github.com/user-attachments/assets/8511cb61-2306-4c74-b868-c2f68f5963e1" />
 
 # Mist
 Welcome to Mist — Your Ultimate Browser Gaming Library
